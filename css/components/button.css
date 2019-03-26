@@ -1,0 +1,14 @@
+/* Feel free to use your own button CSS code (from previous challenge) */
+/* Here is a sample button design */
+
+.btn-medium {
+  background-color: #7a918d; /* Green */
+  border: 20px;
+  color: white;
+  padding: 16px 28px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 16px;
+}/* Your button CSS file */
